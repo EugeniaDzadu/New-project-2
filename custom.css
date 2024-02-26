@@ -1,0 +1,260 @@
+.move1{
+    /* border: 1px black; */
+    /* margin-left: 5%; */
+    width: 100%;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    /* background: transparent; */
+    
+}
+
+.move2{
+    /* padding: 25px; */
+    margin-top: 10%;
+    margin-left: 40%;
+    
+}
+
+body{
+    background-color: rgb(231, 230, 230);
+}
+
+/* .cont{
+    margin-left: 86%;
+    margin-top: -10%;
+    width: 20%;
+    
+} */
+
+.pics{
+    background-image: url(./recaptureprojects/hero-shape2.png.webp);
+    width: 55%;
+    height: 100vh;
+    margin-left: 45%;
+    margin-top: -25%;
+    background-repeat: no-repeat;
+}
+
+.girl{
+    margin-top: 20%;
+    margin-left: -15%;
+    width: 90%;
+}
+
+.post{
+    background-color: rgb(4, 152, 4);
+    /* margin-top: 3%; */
+    margin-left: 25%;
+}
+
+.log{
+    /* margin-top: 3%; */
+    margin-left: 3%;
+}
+
+.num{
+    font-weight: 700;
+    font-size: 420%;
+    color: rgb(7, 7, 160);
+    margin-top: 3%;
+}
+
+.top{
+    font-weight: 700;
+}
+
+.para{
+    font-weight: 500;
+}
+
+.remote{
+    /* margin-top: -5%; */
+    margin-top: 10%;
+    padding: 5px;
+    margin-left: 70%;
+    background-color: rgb(185, 255, 185);
+    border-radius: 10px;
+    /* margin: 50% */
+    
+}
+
+.anchor{
+    color: green;
+    text-decoration: none;
+    
+}
+.bbe{
+    /* border: 1px solid red; */
+    width: 22%;
+    background-color: #fff;
+    margin-left: 5%;
+    border-radius: 10px;
+    height: 51vh;
+}
+
+.icon{
+    /* padding: 5px; */
+    margin-left: 25px;
+    /* border: 1px solid red; */
+    padding: 5px;
+    /* border-radius: 40px; */
+
+
+}
+
+h5{
+    margin-top: 5%;
+}
+
+.apply{
+    padding: 7px;
+    text-decoration: none;
+    background-color: rgb(176, 176, 215);
+    margin-left: 10%;
+    border-radius: 15px;
+    /* margin-top: -20%; */
+}
+
+h5{
+    margin-left: 10%;
+}
+
+.process{
+    margin-left: 10%;
+}
+
+.job-iocn3{
+    /* border: 1px solid black; */
+    width: 22%;
+    background-color: #fff;
+    margin-left: 29%;
+    border-radius: 10px;
+    margin-top: -23%;
+    height: 51vh;
+}
+
+
+
+.girl2{
+   width: 45%; 
+}
+
+#girl2{
+    padding: 60px;
+    margin-left: 80px;
+}
+
+#building{
+    margin-left: 55%;
+    margin-top: -42%;
+}
+
+.h1b{
+    font-weight: 900;
+    font-size: 900%;
+    color: #fff;
+}
+
+.cat1{
+    margin-left: 10%;
+    /* margin-top: 50px; */
+}
+
+.processes{
+    margin-left: 10%;
+    
+}
+
+.creatives{
+    /* margin-top: -2px; */
+}
+
+.jobsearch{
+    margin-left: 10%;
+    margin-top: 2%;
+    color: blue;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.boxes, .health{
+    /* border: 1px solid red; */
+    width: 27%;
+    margin-top: 20px;
+    margin-left: 7%;
+}
+
+.envelope, .corporate{
+    /* border: 1px solid blue; */
+    width: 27%;
+    margin-left: 36%;
+    margin-top: -14.4%;
+}
+
+.marketting, .copywriting{
+    width: 27%;
+    margin-left: 68%;
+    margin-top: -14.4%;
+}
+
+.health{
+    margin-top: 6%;
+    width: 30%;
+}
+
+#bgimg{
+    background-color: blue;
+    width: 65%;
+    height: 70vh;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    overflow: hidden;
+}
+
+.shape{
+    margin-left: 52%;
+    margin-top: -17.8%;
+}
+
+.quote{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.graphics{
+    /* border: 1px solid white; */
+    width: 50%;
+    margin-left: 17%;
+    color: #fff;
+    padding: 5px;
+}
+
+#robart{
+    margin-left: 26%;
+    margin-top: -7%;
+    color: #fff;
+}
+
+#colorlib{
+    margin-left: 26%;
+    margin-top: -2%;
+    font-size: 80%;
+    color: #fff;
+}
+
+.robpic{
+    margin-left: 16%;
+    margin-top: -2%;
+}
+
+.socials{
+    background-color: rgb(194, 194, 194);
+
+}
+
+.soco{
+    margin-left: 19%;
+}
